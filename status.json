@@ -1,4 +1,4 @@
 {
-  "can_run": false,
-  "message": "Texnik ishlar olib borilmoqda. Tez orada qaytamiz.ARZU"
+  "can_run": true,
+  "message": "Texnik ishlar olib borilmoqda. Tez orada qaytamiz."
 }
